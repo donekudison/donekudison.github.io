@@ -27,4 +27,4 @@ This section includes the instructions necessary to build and have the web servi
 
 
 ## JS CODE : 
-run the js code like  http://localhost:8080/fibocodeproject/js/index.htm?n=5
+run the js code like  http://localhost:8080/fibocodeproject/js/index.html?n=5
