@@ -17,7 +17,7 @@ Providing a link to a GitHub/Bit bucket repo with the project would probably be 
 This section includes the instructions necessary to build and have the web service accepting requests and responding to them.
 
  - Clone this [git repository]
-   `git clone https://github.com/donekudison/donekudison.github.io.git`
+  `git clone https://github.com/donekudison/donekudison.github.io.git`
    
  - Execute the following url to access web browser:
     - `https://donekudison.github.io`
