@@ -17,12 +17,7 @@ Providing a link to a GitHub/Bit bucket repo with the project would probably be 
 This section includes the instructions necessary to build and have the web service accepting requests and responding to them.
 
  - Clone this [git repository]
+   `git clone https://github.com/donekudison/donekudison.github.io.git`
+   
  - Execute the following url to access web browser:
- 
     - `https://donekudison.github.io`
-    
- - Access the endpoint(s) with a web browser or CLI tool like `curl`:
-    - `curl -iv http://localhost:8080/fibocodeproject`
-    - `curl -iv http://localhost:8080/fibocodeproject/0`
-    - `curl -iv http://localhost:8080/fibocodeproject/50`
-    - `curl -iv http://localhost:8080/fibocodeproject/100`
